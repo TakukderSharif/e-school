@@ -86,7 +86,7 @@
     height: 35px;
     background: #21B573;
     border-radius: 33px;
-    color: aliceblue;
+    color: white;
     border: none;
 }
 .calender{
@@ -114,11 +114,12 @@ color: #585859;
     font-size: 16px;
 color: #585859;
 }
-.img-fluid{
-    position: absolute;
+.man{
+    /* position:absolute; */
     width: 120px;
     height: 120px;
     left: 353px;
+    
     
     
     
@@ -137,6 +138,23 @@ font-size: 16px;
     box-shadow: 20px 20px 20px lightgrey;
     border-radius: 25px;
     background-color: #f3e1e1;
+}
+.container-1{
+    background-color: black;
+    color: white;
+
+}
+.padding{
+    padding-left: 100px;
+    padding-top: 80px;
+}
+.card-top{
+    background-color: none;
+   
+}
+.logo{
+    width: 198.07px;
+height: 50px;
 }
 
 
